@@ -7,13 +7,12 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Ivy Yufei Liu / Site Title"
+title                    : "Ivy Yufei Liu / Contemporary art historian "
 title_separator          : "-"
 name                     : &name "Ivy Yufei Liu"
-description              : &description "personal description"
+description              : &description "PhD student at Winchester School of Art, University of Southampton. My research looks at the history of vision and technological modes of viewing. I am also interested in contemporary art, aesthetics, image theories, and theories of photography. I have published some articles on new media art and surveys of art & technology in China. I also wrote for an art museum in Beijing and worked as the editorial board of their academic publication. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "Liu_Y_Yufei"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ivy Yufei Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at Winchester School of Art, University of Southampton. My research looks at the history of vision and technological modes of viewing. I am also interested in contemporary art, aesthetics, image theories, and theories of photography. I have published some articles on new media art and surveys of art & technology in China. I also wrote for an art museum in Beijing and worked as the editorial board of their academic publication. "
+  location         : "Winchester / London, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yufei.liu@soton.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ivy-yufei-liu-18a280224/"
+  orcid            : "https://orcid.org/0000-0002-3673-8344"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Liu_Y_Yufei"
   vine             :
   weibo            :
   xing             :
@@ -209,15 +208,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
